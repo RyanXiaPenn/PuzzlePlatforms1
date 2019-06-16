@@ -1,0 +1,2 @@
+C:\Users\Ryan\Documents\UnrealProject\MultiplayerCourseProject\PuzzlePlatforms\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\Definitions.PuzzlePlatforms.h
+c:\users\ryan\documents\unrealproject\multiplayercourseproject\puzzleplatforms\puzzleplatforms\source\puzzleplatforms\PuzzlePlatforms.h
